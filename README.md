@@ -109,7 +109,7 @@ npm run build
 ```bash
 npm run preview
 ```
-
+deployment link : https://gitrepofrontend-qyo0npduf-codebar09s-projects.vercel.app/
 ## Contributing
 
 1. Fork the repository.
