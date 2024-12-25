@@ -63,8 +63,8 @@ This will start the web application in development mode, usually accessible at `
      [
        {
          "id": 1,
-         "username": "demo",
-         "password": "demo123"
+         "username": "papa@gmail.com",
+         "password": "papa"
        }
      ]
      ```
@@ -77,7 +77,7 @@ This will start the web application in development mode, usually accessible at `
        {
          "id": 1,
          "name": "awesome-project",
-         "owner": "user123",
+         "owner": "papa",
          "description": "An awesome project description",
          "stars": 250
        }
