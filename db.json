@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": 1735110876936,
+      "username": "papa",
+      "email": "papa@gmail.com",
+      "password": "papa"
+    }
+  ],
+  "repositories": [
+    {
+      "id": 1,
+      "name": "design-system",
+      "type": "React",
+      "size": "7320 KB",
+      "visibility": "Public",
+      "updatedAt": "1 day ago"
+    },
+    {
+      "id": 2,
+      "name": "codeant-ci-app",
+      "type": "Javascript",
+      "size": "5871 KB",
+      "visibility": "Private",
+      "updatedAt": "2 days ago"
+    },
+    {
+      "id": 3,
+      "name": "analytics-dashboard",
+      "type": "Python",
+      "size": "4521 KB",
+      "visibility": "Private",
+      "updatedAt": "5 days ago"
+    },
+    {
+      "name": "tsgsg",
+      "type": "tter",
+      "visibility": "Private",
+      "size": "0 KB",
+      "updatedAt": "12/25/2024",
+      "id": 4
+    }
+  ]
+}
